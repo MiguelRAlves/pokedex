@@ -66,7 +66,7 @@ And then you're free to use!
 
 ## Links
 
-- Repository URL: [poke-list-api](https://github.com/miguelralves/pokedex)
+- Repository URL: [pokédex](https://github.com/miguelralves/pokedex)
 - Pokémon API Documentation URL: [Pokémon API](https://pokeapi.co/docs/v2)
 
 
