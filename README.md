@@ -62,6 +62,24 @@ Windows:
 git clone <project_url>
 ```
 
+Install vite dependencies:
+
+```
+npm install vite
+```
+
+Run:
+
+```
+npm run dev
+```
+
+Then paste the localhost link in your browser's URL:
+
+```
+http://localhost:5173/
+```
+
 And then you're free to use!
 
 ## Links
