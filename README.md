@@ -1,6 +1,6 @@
 # PokéList - Pokémon API Consumer Pokédex
 ## Overview
-<img src="../pokedex/src/assets/images/pokedex-api-overview.png" alt="Imagem exemplo">
+<img src="./src/assets/images/pokedex-api-overview.png" alt="Imagem exemplo">
 
 > The project is a website which consumes the public Pokémon API, listing each one pokémon in cards, being possible to access a page with details. It's possible to navigate through pages, and there's a theme-toggler system.
 
