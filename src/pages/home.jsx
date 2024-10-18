@@ -4,7 +4,7 @@ import { getPokemonTypes } from "../services/getPokemonTypes";
 import { CardsList } from "../components/CardsList";
 import styled from "styled-components";
 
-import { ThemeTogglerButton } from "../components/themeTogglerButton"
+import { ThemeTogglerButton } from "../components/ThemeTogglerButton"
 import { ThemeContext } from "../contexts/theme-toggler"
 
 import pokemonWhiteBg from "./../assets/images/pokemon-white-bg.jpg"
@@ -43,7 +43,6 @@ export const Home = () => {
                 const response = await getPokemonTypes();
                 const types = response.map((type) => type.name);
                 setTypes(types);
-                console.log(types);
             }
             fetchTypes();
         }

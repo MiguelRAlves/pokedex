@@ -11,7 +11,7 @@ export const ThemeTogglerButton = () => {
         className="btn theme-toggler-btn" 
         onClick={() => setTheme(theme === themes.light ? themes.dark : themes.light)} 
         theme={theme}>
-            <ThemeTogglerButtonLogo src={themeTogglerButtonLogo}></ThemeTogglerButtonLogo>
+            <ThemeTogglerButtonLogo src={themeTogglerButtonLogo}/>
         </Button>
     )
 }

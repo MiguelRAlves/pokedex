@@ -1,6 +1,6 @@
 # PokéList - Pokémon API Consumer Pokédex
 ## Overview
-<img src="../poke-info/src/assets/images/pokedex-api-overview.png" alt="Imagem exemplo">
+<img src="../pokedex/src/assets/images/pokedex-api-overview.png" alt="Imagem exemplo">
 
 > The project is a website which consumes the public Pokémon API, listing each one pokémon in cards, being possible to access a page with details. It's possible to navigate through pages, and there's a theme-toggler system.
 
@@ -54,7 +54,15 @@ The project has some interesting features to enhance the user's experience like:
 
 ## 🚀 Installing poke-list-api
 
-To install poke-list-api, follow these steps:
+## Using Vercel:
+
+Just paste the link in your browser URL:
+
+```
+https://pokedex-sepia-three-90.vercel.app
+```
+
+## To install poke-list-api, follow these steps:
 
 Windows:
 

@@ -1,7 +1,7 @@
 import { NavBtns, Button } from "./style"
 import { getPokemonData } from "../../../services/getPokemonData"
 import { useNavigate } from "react-router-dom"
-import { ThemeTogglerButton } from "../../themeTogglerButton"
+import { ThemeTogglerButton } from "../../ThemeTogglerButton"
 import { useContext, useState } from "react"
 import { ThemeContext } from "../../../contexts/theme-toggler"
 
