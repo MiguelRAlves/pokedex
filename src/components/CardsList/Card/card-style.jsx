@@ -26,3 +26,18 @@ export const P = styled.p`
     text-align: center;
     font-size: 14px;
 `
+
+export const TypesUl = styled.ul`
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    list-style: none;
+`
+
+export const Type = styled.li`
+    border: 1px solid ${({ theme }) => theme.color};
+    border-radius: 5px;
+    padding: 5px;
+    font-family: 'Regular', sans-serif;
+`

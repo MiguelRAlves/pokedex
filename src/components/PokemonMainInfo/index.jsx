@@ -7,7 +7,8 @@ import { ThemeContext } from "./../../contexts/theme-toggler"
 
 
 export const PokemonMainInfo = ({ pokeInfos, setPokeInfos }) => {
-    const { theme } = useContext(ThemeContext);
+    const { theme } = useContext(ThemeContext)
+    
     return (
         <MainInfo>
             <PokemonName theme={theme}>N° {pokeInfos.pokedexId}: {pokeInfos.name} </PokemonName>
