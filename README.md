@@ -59,7 +59,7 @@ The project has some interesting features to enhance the user's experience like:
 Just paste the link in your browser URL:
 
 ```
-https://pokedex-sepia-three-90.vercel.app
+https://pokedex-three-pearl-82.vercel.app
 ```
 
 ## To install poke-list-api, follow these steps:
